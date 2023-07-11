@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\bin\Debug\netcoreapp3.1\KarePiramidalSayilar.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\bin\Debug\netcoreapp3.1\KarePiramidalSayilar.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\bin\Debug\netcoreapp3.1\KarePiramidalSayilar.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\bin\Debug\netcoreapp3.1\KarePiramidalSayilar.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\bin\Debug\netcoreapp3.1\KarePiramidalSayilar.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\bin\Debug\netcoreapp3.1\KarePiramidalSayilar.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\obj\Debug\netcoreapp3.1\KarePiramidalSayilar.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\obj\Debug\netcoreapp3.1\KarePiramidalSayilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\obj\Debug\netcoreapp3.1\KarePiramidalSayilar.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\obj\Debug\netcoreapp3.1\KarePiramidalSayilar.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\obj\Debug\netcoreapp3.1\KarePiramidalSayilar.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\obj\Debug\netcoreapp3.1\KarePiramidalSayilar.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\obj\Debug\netcoreapp3.1\KarePiramidalSayilar.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\KarePiramidalSayilar\KarePiramidalSayilar\obj\Debug\netcoreapp3.1\KarePiramidalSayilar.genruntimeconfig.cache
